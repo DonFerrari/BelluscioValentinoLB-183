@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Das ist mein Portfolio, das meine Fähigkeiten im Bereich der Applikationssicherheit zeigt. In diesem Portfolio werde ich aufzeigen, wie ich die verschiedenen Handlungsziele umgesetzt habe. Das Ziel ist es, den Umgang mit aktuellen Bedrohungen, Sicherheitslücken und weiteren sicherheitsrelevanten Aspekten zu demonstrieren. Die einzelne Handlungsziele sind im Repository als Word-Dateien zu finden.
+Das ist mein Portfolio, das meine Fähigkeiten im Bereich der Applikationssicherheit zeigt. In diesem Portfolio werde ich aufzeigen, wie ich die verschiedenen Handlungsziele umgesetzt habe. Das Ziel ist es, den Umgang mit aktuellen Bedrohungen, Sicherheitslücken und weiteren sicherheitsrelevanten Aspekten zu demonstrieren. Die einzelne Handlungsziele sind im Repository als Word-Dateien zu finden. HZ = Handlungsziel
 
 ## Selbsteinschätzung 
 
